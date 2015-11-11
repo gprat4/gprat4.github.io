@@ -1,6 +1,6 @@
-      <style>
+      
             body {
-                background: rgb(000, 000, 000);
+                background: rgb(0, 128, 0);
                 color: rgb(45, 45, 45);
                 padding: 10px;
                 font-family: arial;
@@ -16,7 +16,7 @@
 
             /* navigation menu */
             nav {
-                background: rgb(000, 000, 000);
+                background: rgb(0, 128, 0);
                 margin: 0 auto;
                 display: flex;
                 padding: 10px;
@@ -58,5 +58,5 @@
             [class=interests] header {
                 font-size: 1.25em;
             }
-        </style>
+        
 
